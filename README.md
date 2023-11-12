@@ -22,8 +22,7 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
+
 
 
   <h3 align="center">project api</h3>
