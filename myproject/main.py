@@ -50,3 +50,12 @@ def read_client(client_id: int, db: Session = Depends(get_db)):
     return db_client
 
 
+@app.delete("/delete/{client_id}", response_model=schemas.Client)
+async def delete_client(clientid: int, db: Session = Depends(get_db)):
+    record = db.query(clientid).filter(clientid.id == id).first()
+    if record:
+        db.delete(clientid)
+        db.commit()
+        return {"message": "Record deleted successfully."}
+    else:
+        return {"message": "Record not found."}
