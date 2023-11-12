@@ -34,19 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">project api</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    In dit project maakte ik een database via sqllite waarin er klanten opgeslagen konden worden door de endpoint van een api aan te spreken het was zeer leerzaam en een leuk project. Ik heb zeker wel wat problemen gehad en heb ze niet allemaal kunnen oplossen.
   </p>
 </div>
 
@@ -59,22 +50,11 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <a href="#screenshots">screenshots</a>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
@@ -83,120 +63,34 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+[![apidev_p1][![image](https://github.com/daansterckx/apidev_p1/assets/39022656/c18734eb-c637-4934-860d-e06dbbe9fa70)
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/4c879aad-703e-4ff8-a17e-d69f56dfdb11)
+]](https://system-service-daansterckx.cloud.okteto.net/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## screenhots
 
-### Built With
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/eec1ccee-06e0-48b9-90c0-cb472c0e4642)
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/8fee0c5f-9516-41fd-b119-ab13ac6efe6d)
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/0cfb3d22-8cf9-4e9f-8128-5867bf5c4bee)
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/c0c46192-88f4-4540-8845-0ffa9dea875b)
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/1206346d-25ec-4cc3-bcee-01635ba7d873)
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/b017ca46-dbf6-4393-90ed-b80890a94d43)
+![image](https://github.com/daansterckx/apidev_p1/assets/39022656/61a26028-b519-453b-8985-0c12187546cf)
+![Uploading image.png…]()
 
 
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
 
 
 
@@ -212,8 +106,6 @@ Project Link: [apidev_p1](https://github.com/daansterckx/apidev_p1)
 
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
